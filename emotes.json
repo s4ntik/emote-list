@@ -1,1 +1,35 @@
 
+{
+    "emotes": [
+        { "code": ":hey-hey", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2016/01/09/10/45/d082e8a8506d83482afe515359563c25b79c46fe.jpg" },
+        { "code": ":-heyy", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2025/06/07/15/48/56f2748e3365d3f0476de7ac80098171ef03ac80.jpg" },
+        { "code": ":bored_b", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2021/02/12/12/55/45edb6445c27472a7c9b6e1bfc76fbe8bd9b9bf3.jpg" },
+        { "code": ":catsearching", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2025/06/07/15/39/f61bde735ba37a8a09b6c8471f1bf06a2f263dc2.jpg" },
+        { "code": ":sigh", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2012/05/22/RPaue17GR5wQJArq.jpg" },
+        { "code": ":10tkpm", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2016/04/27/22/12/eb3ec59a5a0d6ffe0aa52164e743d6ab116b5c55.jpg" },
+        { "code": ":raf-middlefinger", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2023/01/20/09/54/c8c0736a5d04d046910272567a3bdb3193b1f5ea.jpg" },
+        { "code": ":peepolaugh", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2021/04/01/21/58/828ffde2db50c2fb8cdd91c12e2cebc56f5d1122.jpg" },
+        { "code": ":peepolaughalott", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2025/06/07/16/05/f80e70f5342470ce4e8a8a31d632e92f9b4931d8.jpg" },
+        { "code": ":crywithwine", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2025/06/07/16/10/8079dd59ef5b097cceb478d689ae315e168ccdec.jpg" },
+        { "code": ":MAAAN", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2024/12/01/18/11/f20283d475a936caec206e4948039508d6b3b128.jpg" },
+        { "code": ":kekw", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2019/09/12/08/57/7674c6a3ec42f5d78ad12bc79b713432df075341.jpg" },
+        { "code": ":bttvClassic", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2023/03/27/15/38/87ec4db01a4a5409df7d7083678e1a5b892fc2aa.jpg" },
+        { "code": ":bttvLooking", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2023/07/23/15/27/39d8bfc670219bbffa66297f0ace0bafecaa46d6.jpg" },
+        { "code": ":hypE", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2022/02/15/17/39/cd2505a8b4f9df7f7ac7d0d21e6404f3773dc852.jpg" },
+        { "code": ":bttvNoOoo", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2022/07/24/15/04/85cff750f52965f30d064e2fb1283956bcec28f6.jpg" },
+        { "code": ":jorkinFIX", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2024/12/01/14/48/c4b08eb35f173e92ef89ce48fd77df3776fa26b7.jpg" },
+        { "code": ":bttvGrrrx2", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2024/02/29/20/31/a064fca19d5c61679cba77b7a8d025ca33fee001.jpg" },
+        { "code": ":ElmoShrug", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2022/01/12/23/18/0d62df27d47b376acb6cbfcd585442638fcf4556.jpg" },
+        { "code": ":smart-", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2021/05/18/05/57/19c201cd65484e3a0d35a22b9803f29d04fb9ff1.jpg" },
+        { "code": ":byeeee-", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2014/04/03/NDKN0FePQ4NMYUD.jpg" },
+        { "code": ":peepostare1a", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2021/10/21/10/30/00a4d16c6d232af5f3f8ed538414c5b984d0915a.jpg" },
+        { "code": ":peepostare0", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2023/04/01/21/05/8d28433bd1a887082c925e5c56decbdc04964286.jpg" },
+        { "code": ":lebronJAM-dtw", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2021/04/15/16/54/ff9cde2231712724a2d1bf92aa5027e3faaff806.jpg" },
+        { "code": ":Sadge", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2020/02/29/18/39/07587370e33189ee0b6aae0d4b88bc6759ea1646.jpg" },
+        { "code": ":cffsadge", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2023/05/19/20/06/e8ef0088d349c7e244226ac3f1e7853755f11150.jpg" },
+        { "code": ":peepoz ", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2023/04/23/14/43/cb205e407e672c506b2dd35c61cbbda602d7f5ce.jpg" },
+        { "code": ":peepoknife1 ", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2022/11/21/06/54/f51ffc44e9f0ff22fa1b81313ec2a85332634310.jpg" },
+        { "code": ":kickout", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2013/04/28/1tSDOURMcWaulYe.jpg" },
+        { "code": ":jbdabbing", "src": "https://static-pub.highwebmedia.com/uploads/avatar/2020/04/23/15/24/f6d9b9d3e6e364627d9c8f644f8a653305d5b66d.jpg" }
+    ]
+}
